@@ -28,14 +28,14 @@ public class UserRepositoryTests {
 	@Test
 	public void testCreateUser() {
 		Users users = new Users();
-		users.setEmail("abc@gmail.com");
-		users.setPassword("abc@123");
+		users.setEmail("test@gmail.com");
+		users.setPassword("test@123");
 		users.setAddress("Mumbai");
 		users.setAge("42");
 		users.setAincome("500000");
 		users.setDeposit("66000");
 		users.setMexpense("17000");
-		users.setMobileNo("9898090000");
+		users.setMobileNo("9898093423");
 		users.setName("abckumar");
 		users.setPropValue("1800000");
 		
